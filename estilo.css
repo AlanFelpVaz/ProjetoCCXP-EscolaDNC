@@ -21,7 +21,7 @@ header img{
     display: flex;
     flex-direction: column;
     background-color: #514988;
-    height: 710px;
+    height: 100%;
     text-align: center;
 }
 #convite h1{
@@ -40,8 +40,9 @@ header img{
 #convite p{
     color: #ffffff;
     margin-top: 76px;
-    font-size: 31px;
+    font-size: 1.6em;
     font-weight: lighter;
+    margin-bottom: 30px;
 }
 /* convite feito */
 
